@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="21032" started-at="2016-12-17T14:33:13Z" finished-at="2016-12-17T14:33:34Z">
+  <suite name="Default suite" duration-ms="19269" started-at="2016-12-17T15:02:42Z" finished-at="2016-12-17T15:03:02Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="21032" started-at="2016-12-17T14:33:13Z" finished-at="2016-12-17T14:33:34Z">
-      <class name="com.hari.appium.test">
-        <test-method status="PASS" signature="test1()[pri:0, instance:com.hari.appium.test@1810399e]" name="test1" duration-ms="21000" started-at="2016-12-17T20:03:13Z" finished-at="2016-12-17T20:03:34Z">
+    <test name="Default test" duration-ms="19269" started-at="2016-12-17T15:02:42Z" finished-at="2016-12-17T15:03:02Z">
+      <class name="com.hari.appium.FaceBook">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.hari.appium.FaceBook@1810399e]" name="test1" duration-ms="19253" started-at="2016-12-17T20:32:42Z" finished-at="2016-12-17T20:33:02Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-      </class> <!-- com.hari.appium.test -->
+      </class> <!-- com.hari.appium.FaceBook -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
