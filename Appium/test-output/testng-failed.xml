@@ -3,11 +3,11 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="com.hari.appium.test">
+      <class name="com.hari.appium.NativeApp">
         <methods>
-          <include name="test1"/>
+          <include name="whatsapp"/>
         </methods>
-      </class> <!-- com.hari.appium.test -->
+      </class> <!-- com.hari.appium.NativeApp -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
